@@ -1,5 +1,5 @@
 ### Date created
-This project was created on Janurary 31, 2021
+This project was created on January 31, 2021
 
 ### Project Title
 Replace the Project Title
