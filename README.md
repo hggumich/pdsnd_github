@@ -2,14 +2,14 @@
 This project was created on January 31, 2021
 
 ### Project Title
-Replace the Project Title
+Bike Sharing Program
 
 ### Description
-Describe what your project is about and what it does
+This programs displays info on bike sharing for the cities of Chicago, Washington, and New York City.
 
 ### Files used
-Include the files used
+This program uses csv files and a py file.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project is forked from udacity/pdsnd_github.
 
