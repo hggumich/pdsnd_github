@@ -39,7 +39,7 @@ def type_of_report():
     num = {1,2,3,4,5}
     while True:
         try:
-            user_type_of_report=int(input('\nWhat kind of report would you like to perform: (Type 1 - 5) '))
+            user_type_of_report=int(input('\nWhat kind of report would you like to perform: (Type 1 - 5 - Not words)  '))
             if user_type_of_report in num:
                 break
             else:
