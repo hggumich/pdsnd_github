@@ -1,6 +1,10 @@
 import time
 import pandas as pd
 
+"""
+    This program will display bike sharing data for Chicago, New York City, and Washington"
+"""
+
 def program_scope():
     """
         This function displays the program scope
